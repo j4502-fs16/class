@@ -1,4 +1,4 @@
-# J4502/7502, Spring 2016
+# J4502/7502, Fall 2016
 Welcome to J4502: Multimedia Planning and Design
 
 This is the repository for Multimedia Planning and Design. Here, Elizabeth and Rob will post sample code throughout the semester. You'll learn basic HTML and CSS, alongside best practices.
